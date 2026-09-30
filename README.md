@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/1ln8j0wzjQV_AYVv7HKuQi89lACQFBIaU?usp=dri
 
 ### ⚙️ Main Technologies
 
-* **YOLOv8-Pose ** – Human pose and keypoint extraction
+* YOLOv8-Pose  – Human pose and keypoint extraction
 * **Computer Vision** – Cricket video and movement analysis
 * **Biomechanical Analysis** – Joint angles and movement patterns
 * **Machine Learning** – Injury-risk classification
