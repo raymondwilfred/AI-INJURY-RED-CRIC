@@ -1,0 +1,26 @@
+player_id,player_name,nationality,role,batting_style,bowling_style,overseas,squad_status,age_2026,height_cm,weight_kg,previous_injury,current_injury,injury_type,injury_body_part,training_hours_week,sleep_hours,injury_risk_label
+1,MS Dhoni,India,Wicketkeeper-Batter,Right-hand bat,Right-arm medium,No,Retained,44,175,78,Yes,No,Knee Arthroscopy,Left Patella,16,7.5,Medium
+2,Ruturaj Gaikwad,India,Batter (Captain),Right-hand bat,Right-arm off-break,No,Retained,29,178,70,Yes,No,Bone Fracture,Right Index Finger,24,8.0,Low
+3,Sanju Samson,India,Wicketkeeper-Batter,Right-hand bat,Right-arm off-break,No,Traded in,31,173,72,Yes,No,MCL Ligament Sprain,Right Knee,22,7.8,Low
+4,Ayush Mhatre,India,Batter,Right-hand bat,Right-arm off-break,No,Retained,18,175,68,Yes,Yes,Stress Fracture,L4-L5 Lumbar Spine,12,6.5,High
+5,Dewald Brevis,South Africa,Batter,Right-hand bat,Right-arm leg-break,Yes,Retained,22,178,74,No,No,Mild Muscle Strain,Left Hamstring,26,8.2,Low
+6,Shivam Dube,India,All-rounder,Left-hand bat,Right-arm medium,No,Retained,32,183,86,Yes,No,Side Muscle Strain,Right Oblique,22,7.2,Medium
+7,Urvil Patel,India,Wicketkeeper-Batter,Right-hand bat,Right-arm medium,No,Retained,27,174,71,No,No,Bone Contusion,Left Thumb,25,7.9,Low
+8,Noor Ahmad,Afghanistan,Bowler,Left-hand bat,Left-arm wrist-spin,Yes,Retained,21,172,69,No,No,Groin Strain,Right Adductor,26,8.0,Low
+9,Nathan Ellis,Australia,Bowler,Right-hand bat,Right-arm fast-medium,Yes,Retained,31,180,80,Yes,Yes,Grade II Muscle Tear,Left Hamstring,14,6.8,High
+10,Shreyas Gopal,India,Bowler/All-rounder,Right-hand bat,Right-arm leg-break,No,Retained,32,176,73,Yes,No,Shoulder Impingement,Right Rotator Cuff,22,7.6,Low
+11,Syed Khaleel Ahmed,India,Bowler,Right-hand bat,Left-arm fast-medium,No,Retained,28,188,82,Yes,No,Acute Back Spasm,Lower Lumbar,28,7.4,Medium
+12,Ramakrishna Ghosh,India,All-rounder,Right-hand bat,Right-arm fast-medium,No,Retained,28,180,75,No,No,Lateral Inversion Sprain,Right Ankle,25,8.1,Low
+13,Mukesh Choudhary,India,Bowler,Left-hand bat,Left-arm medium-fast,No,Retained,29,185,81,Yes,No,Stress Fracture,L5 Lumbar Spine,24,7.5,Medium
+14,Jamie Overton,England,All-rounder,Right-hand bat,Right-arm fast,Yes,Retained,31,196,92,Yes,Yes,Lumbar Stress Reaction,Lower Spine,14,6.7,High
+15,Gurjapneet Singh,India,Bowler,Right-hand bat,Left-arm medium-fast,No,Retained,27,190,85,No,No,Medial Tibial Stress,Left Tibia,27,7.7,Low
+16,Anshul Kamboj,India,All-rounder,Right-hand bat,Right-arm fast-medium,No,Retained,25,182,77,No,No,Quadriceps Strain,Left Rectus Femoris,28,8.0,Low
+17,Akeal Hosein,West Indies,Bowler/All-rounder,Left-hand bat,Left-arm slow orthodox,Yes,Auction buy,32,178,75,Yes,No,Shoulder Tendinopathy,Left Rotator Cuff,20,7.8,Low
+18,Prashant Veer,India,All-rounder,Left-hand bat,Left-arm slow orthodox,No,Auction buy,20,177,70,No,No,Myofascial Tightness,Biceps Femoris,26,8.2,Low
+19,Kartik Sharma,India,Wicketkeeper-Batter,Right-hand bat,Right-arm off-break,No,Auction buy,19,173,68,No,No,Interphalangeal Sprain,Right Hand,25,8.1,Low
+20,Matthew Short,Australia,All-rounder,Right-hand bat,Right-arm off-break,Yes,Auction buy,30,188,84,Yes,No,Abdominal Side Strain,Left Internal Oblique,24,7.7,Low
+21,Aman Khan,India,All-rounder,Right-hand bat,Right-arm fast-medium,No,Auction buy,29,182,79,No,No,Flexor Carpi Tendonitis,Right Wrist,26,7.9,Low
+22,Sarfaraz Khan,India,Batter,Right-hand bat,Right-arm leg-break,No,Auction buy,28,168,76,Yes,No,Distal Phalanx Fracture,Right Index Finger,23,7.5,Low
+23,Matt Henry,New Zealand,Bowler,Right-hand bat,Right-arm fast-medium,Yes,Auction buy,34,187,85,Yes,No,Grade I Soleus Tear,Right Calf,25,7.4,Medium
+24,Rahul Chahar,India,Bowler,Right-hand bat,Right-arm leg-break,No,Auction buy,26,175,71,No,No,Anterior Impingement,Right Ankle,25,8.0,Low
+25,Zak Foulkes,New Zealand,All-rounder,Right-hand bat,Right-arm fast-medium,Yes,Auction buy,23,185,80,No,No,Hamstring Tendinopathy,Right Biceps Femoris,27,8.0,Low
