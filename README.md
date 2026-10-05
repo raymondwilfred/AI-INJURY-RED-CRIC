@@ -300,9 +300,8 @@ The project videos and additional project data are available here:
 
 **Google Drive:**
 
-https://drive.google.com/drive/folders/1ln8j0wzjQV_AYVv7H7KuQi89lACQFBIaU?usp=drive_link
-
-> The repository does not include large video datasets directly. The Google Drive folder is provided as the external project-data location.
+https://drive.google.com/drive/folders/1ln8j0wzjQV_AYVv7HKuQi89lACQFBIaU?usp=drive_link 
+The repository does not include large video datasets directly. The Google Drive folder is provided as the external project-data location.
 
 ---
 
