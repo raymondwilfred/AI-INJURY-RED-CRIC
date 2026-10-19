@@ -112,16 +112,16 @@ class PoseService:
         # YOLO pose prediction
         # -------------------------------------------------
 
-        results = self.model.predict(
+        
+results = self.model.predict(
+    source=image_bgr,
+    conf=0.05,
+    imgsz=320,
+    max_det=1,
+    device="cpu",
+    verbose=False,
+)
 
-            source=image_bgr,
-
-            conf=0.05,
-
-            imgsz=640,
-
-            verbose=False,
-        )
 
 
         if not results:
