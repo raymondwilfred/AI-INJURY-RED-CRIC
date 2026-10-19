@@ -1,8 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:8000/api/analyze";
-
+const API_URL = "https://ai-injury-red-cric.onrender.com/api/analyze";
 const INITIAL_PLAYER = {
   age: "",
   player_type: "Batsman",
