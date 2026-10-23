@@ -108,28 +108,22 @@ class PoseService:
             )
 
 
+       
         # -------------------------------------------------
         # YOLO pose prediction
         # -------------------------------------------------
 
-        
-results = self.model.predict(
-    source=image_bgr,
-    conf=0.05,
-    imgsz=320,
-    max_det=1,
-    device="cpu",
-    verbose=False,
-)
-
-
+        results = self.model.predict(
+            source=image_bgr,
+            conf=0.05,
+            imgsz=320,
+            max_det=1,
+            device="cpu",
+            verbose=False,
+        )
 
         if not results:
-
-            raise ValueError(
-                "NO_PERSON"
-            )
-
+            raise ValueError("NO_PERSON")
 
         result = results[0]
 
